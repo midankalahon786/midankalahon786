@@ -51,13 +51,13 @@ Let's build something amazing together!
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=[Your-GitHub-Username]&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=[Your-GitHub-Username]&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-  <img alt="Your GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=[Your-GitHub-Username]&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=[midankalahon786]&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=[midankalahon786]&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img alt="Your GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=[midankalahon786]&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=light&hide_border=true">
-  <img alt="Your Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=[midankalahon786]&layout=compact&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=[midankalahon786]&layout=compact&theme=light&hide_border=true">
+  <img alt="Your Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[midankalahon786]&layout=compact&theme=dark&hide_border=true" />
 </picture>
