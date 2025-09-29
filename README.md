@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Midanka Lahon]!
+# Hi there 👋 I'm Midanka Lahon!
 
 ### 💻 Bachelor of Technology in Computer Science Engineering Student | Passionate about crafting robust and scalable software solutions.
 
@@ -21,7 +21,7 @@ Here are some of the technologies I enjoy working with:
 * **Backend:** Node.js, GraphQL, 
 * **Mobile:** Android (Kotlin/Java), React Native
 * **Databases:** MongoDB, PostgreSQL, MySQL
-* **Tools & Platforms:** Git, Docker, VS Code, [GCP]
+* **Tools & Platforms:** Git, Docker, VS Code, GCP
 
 ---
 
