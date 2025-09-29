@@ -8,7 +8,7 @@
 
 I'm a dedicated Computer Science student with a strong foundation in **Kotlin**, **Android Studio**, and **C++**. My academic journey has equipped me with solid problem-solving skills and a passion for building applications that make a difference. I'm always eager to learn new technologies and apply them to real-world challenges.
 
-Currently, I'm deep into developing a **Bus Tracking System** project, focusing on [real-time tracking, user-friendly interfaces and scalable]. This project allows me to apply my skills in [React, Node.js, React Native, Android Development].
+Currently, I'm deep into developing a **Bus Tracking System** project, focusing on real-time tracking, user-friendly interfaces and scalable. This project allows me to apply my skills in React, Node.js, React Native, Android Development.
 
 ---
 
@@ -28,7 +28,7 @@ Here are some of the technologies I enjoy working with:
 ### What I'm Currently Up To
 
 * 🚀 Developing a **Bus Tracking System** to enhance public transport efficiency.
-* 📚 Expanding my knowledge in [ethical hacking, cryptography].
+* 📚 Expanding my knowledge in ethical hacking, cryptography.
 * 🤝 Looking for opportunities to collaborate on open-source projects.
 
 ---
@@ -37,8 +37,8 @@ Here are some of the technologies I enjoy working with:
 
 Let's build something amazing together!
 
-* **LinkedIn:** [https://www.linkedin.com/in/midanka-lahon-1946b8255/]
-* **Email:** [midankalahon@gmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/midanka-lahon-1946b8255/
+* **Email:** midankalahon@gmail.com
 
 ---
 
