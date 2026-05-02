@@ -14,65 +14,78 @@ I enjoy solving real-world problems through clean architecture, efficient APIs, 
 
 ## 🏆 Experience
 
-### 🔹 DevOps & Backend Intern  
-**HDFC Job Ready Programme (Jillingini)**  
+### 🔹 DevOps & Backend Intern
+
+**HDFC Job Ready Programme (Jillingini)**
 📅 Sept 2025 – April 2026 (Internship: 2 months)
 
-- Worked on backend systems and DevOps workflows  
-- Implemented **Git branch management strategies** for team collaboration  
-- Gained hands-on experience with **CI/CD concepts and deployment pipelines**  
-- Built and maintained scalable backend services  
-- Collaborated in a team-based development environment  
+* Worked on backend systems and DevOps workflows
+* Implemented **Git branch management strategies** for team collaboration
+* Gained hands-on experience with **CI/CD concepts and deployment pipelines**
+* Built and maintained scalable backend services
+* Collaborated in a team-based development environment
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-- Kotlin  
-- JavaScript  
-- C++  
+
+* Kotlin
+* JavaScript
+* C++
 
 ### 🎨 Frontend
-- React  
-- Jetpack Compose  
-- HTML5, CSS3  
+
+* React
+* Jetpack Compose
+* HTML5, CSS3
 
 ### ⚙️ Backend
-- Node.js  
-- GraphQL  
+
+* Node.js
+* GraphQL
 
 ### 📱 Mobile
-- Android (Kotlin/Java)  
-- React Native  
+
+* Android (Kotlin/Java)
+* React Native
 
 ### 🗄️ Databases
-- MongoDB  
-- PostgreSQL  
-- MySQL  
+
+* MongoDB
+* PostgreSQL
+* MySQL
 
 ### 🚀 DevOps & Tools
-- Git (Branching, Collaboration)  
-- Docker  
-- CI/CD Basics  
-- GCP  
-- VS Code  
+
+* Git (Branching, Collaboration)
+* Docker
+* CI/CD Basics
+* GCP
+* VS Code
 
 ---
 
 ## 📌 Current Focus
 
-- 📚 Learning **System Design**  
-- ⚙️ Strengthening **Software Engineering Fundamentals**  
-- 🔐 Exploring **Ethical Hacking & Cryptography**  
-- 🚀 Improving **DevOps & Cloud Deployment Skills**
+* 📚 Learning **System Design**
+* ⚙️ Strengthening **Software Engineering Fundamentals**
+* 🔐 Exploring **Ethical Hacking & Cryptography**
+* 🚀 Improving **DevOps & Cloud Deployment Skills**
 
 ---
 
 ## 🌐 Connect with Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/midanka-lahon-1946b8255/  
-- 📧 Email: midankalahon@gmail.com  
+* 🔗 LinkedIn: https://www.linkedin.com/in/midanka-lahon-1946b8255/
+* 📧 Email: [midankalahon@gmail.com](mailto:midankalahon@gmail.com)
+
+---
+
+## 📊 Metrics Dashboard
+
+![Metrics](https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/github-metrics.svg)
 
 ---
 
