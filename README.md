@@ -123,28 +123,26 @@ $ whoami
 <!-- lowlighter/metrics — GitHub Actions auto-generated -->
 <img width="100%" alt="Metrics" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/github-metrics.svg" />
 
-<table>
-  <tr>
-    <td width="33%">
-      <img width="100%" alt="Starred Topics" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_topics.svg" />
-    </td>
-    <td width="33%">
-      <img width="100%" alt="AniList" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_anilist.svg" />
-    </td>
-    <td width="33%">
-      <img width="100%" alt="Steam Activity" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_steam.svg" />
-    </td>
-  </tr>
-</table>
+<br/>
+
+<img width="100%" alt="Starred Topics" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_topics.svg" />
+
+<br/>
+
+<img width="100%" alt="AniList" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_anilist.svg" />
+
+<br/>
+
+<img width="100%" alt="Steam Activity" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_steam.svg" />
 
 ---
 
 ## `~/stats`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=midankalahon786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2079&icon_color=08F7FE&text_color=FFFFFF">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=midankalahon786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2079&icon_color=08F7FE&text_color=FFFFFF&count_private=true&include_all_commits=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=midankalahon786&show_icons=true&theme=default&hide_border=true">
-  <img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=midankalahon786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2079&icon_color=08F7FE&text_color=FFFFFF" />
+  <img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=midankalahon786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2079&icon_color=08F7FE&text_color=FFFFFF&count_private=true&include_all_commits=true" />
 </picture>
 
 <picture>
@@ -154,9 +152,9 @@ $ whoami
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=midankalahon786&hide_border=true&background=0D1117&ring=08F7FE&fire=FF2079&currStreakLabel=FF2079&sideLabels=FF2079&dates=888888">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=midankalahon786&hide_border=true&background=0D1117&ring=08F7FE&fire=FF2079&currStreakLabel=FF2079&currStreakNum=FFFFFF&sideLabels=FF2079&sideNums=FFFFFF&dates=FFFFFF">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=midankalahon786&theme=default&hide_border=true">
-  <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=midankalahon786&hide_border=true&background=0D1117&ring=08F7FE&fire=FF2079&currStreakLabel=FF2079&sideLabels=FF2079&dates=888888" />
+  <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=midankalahon786&hide_border=true&background=0D1117&ring=08F7FE&fire=FF2079&currStreakLabel=FF2079&currStreakNum=FFFFFF&sideLabels=FF2079&sideNums=FFFFFF&dates=FFFFFF" />
 </picture>
 
 ---

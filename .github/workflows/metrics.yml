@@ -24,6 +24,7 @@ jobs:
 
           template: classic
           base: header, activity, community, repositories
+          config_theme: dark
 
           plugin_languages: yes
           plugin_languages_sections: most-used
@@ -53,9 +54,10 @@ jobs:
           filename: metrics_plugin_topics.svg
 
           base: ""
+          config_theme: dark
           plugin_topics: yes
           plugin_topics_limit: 20
-          plugin_topics_mode: icons
+          plugin_topics_mode: both
 
   metrics-anilist:
     runs-on: ubuntu-latest
@@ -67,11 +69,12 @@ jobs:
           filename: metrics_plugin_anilist.svg
 
           base: ""
+          config_theme: dark
           plugin_anilist: yes
-          plugin_anilist_user: YOUR_ANILIST_USERNAME
+          plugin_anilist_user: midankalahon786
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
+          plugin_anilist_limit: 4
           plugin_anilist_limit_characters: 22
 
   metrics-steam:
@@ -84,10 +87,11 @@ jobs:
           filename: metrics_plugin_steam.svg
 
           base: ""
+          config_theme: dark
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_API_TOKEN }}
           plugin_steam_user: 76561198831135017
           plugin_steam_sections: player, most-played
-          plugin_steam_games_limit: 3
+          plugin_steam_games_limit: 5
           plugin_steam_recent_games_limit: 1
           plugin_steam_achievements_limit: 3
