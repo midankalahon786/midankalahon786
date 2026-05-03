@@ -129,16 +129,11 @@ $ whoami
 
 <br/>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img width="100%" alt="AniList" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_anilist.svg" />
-    </td>
-    <td width="50%">
-      <img width="100%" alt="Steam Activity" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_steam.svg" />
-    </td>
-  </tr>
-</table>
+<img width="100%" alt="AniList" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_anilist.svg" />
+
+<br/>
+
+<img width="100%" alt="Steam Activity" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_steam.svg" />
 
 <br/>
 
@@ -147,18 +142,6 @@ $ whoami
 ---
 
 ## `~/stats`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=midankalahon786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2079&icon_color=08F7FE&text_color=FFFFFF&count_private=true&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=midankalahon786&show_icons=true&theme=default&hide_border=true">
-  <img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=midankalahon786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2079&icon_color=08F7FE&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=midankalahon786&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2079&icon_color=08F7FE&text_color=FFFFFF">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=midankalahon786&layout=compact&theme=default&hide_border=true">
-  <img width="100%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=midankalahon786&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2079&icon_color=08F7FE&text_color=FFFFFF" />
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=midankalahon786&hide_border=true&background=0D1117&ring=08F7FE&fire=FF2079&currStreakLabel=FF2079&currStreakNum=FFFFFF&sideLabels=FF2079&sideNums=FFFFFF&dates=FFFFFF">
