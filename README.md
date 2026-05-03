@@ -9,7 +9,7 @@
  ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFB2&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+DevOps+Enthusiast;Building+scalable%2C+production-ready+systems;Exploring+%7B+Security+%7C+Cloud+%7C+System+Design+%7D;git+commit+-m+%22another+day%2C+another+feature%22)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF2079&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+DevOps+Enthusiast;Building+scalable%2C+production-ready+systems;Exploring+%7B+Security+%7C+Cloud+%7C+System+Design+%7D;git+commit+-m+%22another+day%2C+another+feature%22)
 
 </div>
 
@@ -43,24 +43,24 @@ $ whoami
 <table>
   <tr>
     <td valign="top" width="33%">
-      <img src="https://img.shields.io/badge/─%20LANGUAGES%20─-00FFB2?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
-      <img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=00FFB2" />
-      <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00FFB2" />
+      <img src="https://img.shields.io/badge/─%20LANGUAGES%20─-FF2079?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=FF2079" />
+      <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=FF2079" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/─%20FRONTEND%20─-00FFB2?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
-      <img src="https://img.shields.io/badge/Jetpack%20Compose-0d1117?style=flat-square&logo=jetpackcompose&logoColor=00FFB2" />
-      <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=00FFB2" />
-      <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=00FFB2" />
+      <img src="https://img.shields.io/badge/─%20FRONTEND%20─-FF2079?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/Jetpack%20Compose-0d1117?style=flat-square&logo=jetpackcompose&logoColor=FF2079" />
+      <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=FF2079" />
+      <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=FF2079" />
     </td>
     <td valign="top" width="33%">
-      <img src="https://img.shields.io/badge/─%20BACKEND%20─-00E5FF?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00E5FF" />
-      <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00E5FF" />
-      <img src="https://img.shields.io/badge/Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=00E5FF" />
-      <img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=00E5FF" />
+      <img src="https://img.shields.io/badge/─%20BACKEND%20─-08F7FE?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=08F7FE" />
+      <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=08F7FE" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-0d1117?style=flat-square&logo=springboot&logoColor=08F7FE" />
+      <img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=08F7FE" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/─%20MOBILE%20─-00E5FF?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
-      <img src="https://img.shields.io/badge/Android-0d1117?style=flat-square&logo=android&logoColor=00E5FF" />
+      <img src="https://img.shields.io/badge/─%20MOBILE%20─-08F7FE?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/Android-0d1117?style=flat-square&logo=android&logoColor=08F7FE" />
     </td>
     <td valign="top" width="33%">
       <img src="https://img.shields.io/badge/─%20DATABASES%20─-BF5FFF?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
@@ -87,15 +87,15 @@ $ whoami
       <img src="https://img.shields.io/badge/GitLab-0d1117?style=flat-square&logo=gitlab&logoColor=FF6E6E" />
     </td>
     <td valign="top" width="25%">
-      <img src="https://img.shields.io/badge/─%20CONTAINERS%20─-00E5FF?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
-      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00E5FF" />
-      <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=00E5FF" />
+      <img src="https://img.shields.io/badge/─%20CONTAINERS%20─-08F7FE?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=08F7FE" />
+      <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=08F7FE" />
     </td>
     <td valign="top" width="25%">
-      <img src="https://img.shields.io/badge/─%20CI%2FCD%20─-00FFB2?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=githubactions&logoColor=00FFB2" />
-      <img src="https://img.shields.io/badge/GitLab%20CI-0d1117?style=flat-square&logo=gitlab&logoColor=00FFB2" />
-      <img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=00FFB2" />
+      <img src="https://img.shields.io/badge/─%20CI%2FCD%20─-FF2079?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=flat-square&logo=githubactions&logoColor=FF2079" />
+      <img src="https://img.shields.io/badge/GitLab%20CI-0d1117?style=flat-square&logo=gitlab&logoColor=FF2079" />
+      <img src="https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=FF2079" />
     </td>
     <td valign="top" width="25%">
       <img src="https://img.shields.io/badge/─%20CLOUD%20─-BF5FFF?style=for-the-badge&labelColor=0d1117&color=0d1117" /><br/><br/>
@@ -121,16 +121,39 @@ $ whoami
 ## `~/metrics`
 
 <!-- lowlighter/metrics — GitHub Actions auto-generated -->
-![Metrics](https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/github-metrics.svg)
+<img width="100%" alt="Metrics" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/github-metrics.svg" />
+
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" alt="Starred Topics" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_topics.svg" />
+    </td>
+    <td width="50%">
+      <img width="100%" alt="AniList" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_anilist.svg" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## `~/stats`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=midankalahon786&theme=dark&hide_border=true&background=0d1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=midankalahon786&theme=default&hide_border=true">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=midankalahon786&theme=dark&hide_border=true&background=0d1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=midankalahon786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2079&icon_color=08F7FE&text_color=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=midankalahon786&show_icons=true&theme=default&hide_border=true">
+  <img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=midankalahon786&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2079&icon_color=08F7FE&text_color=FFFFFF" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=midankalahon786&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2079&icon_color=08F7FE&text_color=FFFFFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=midankalahon786&layout=compact&theme=default&hide_border=true">
+  <img width="100%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=midankalahon786&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2079&icon_color=08F7FE&text_color=FFFFFF" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=midankalahon786&hide_border=true&background=0D1117&ring=08F7FE&fire=FF2079&currStreakLabel=FF2079&sideLabels=FF2079&dates=888888">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=midankalahon786&theme=default&hide_border=true">
+  <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=midankalahon786&hide_border=true&background=0D1117&ring=08F7FE&fire=FF2079&currStreakLabel=FF2079&sideLabels=FF2079&dates=888888" />
 </picture>
 
 ---
@@ -148,5 +171,5 @@ github   : github.com/midankalahon786
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=midankalahon786&style=flat-square&color=00FFB2&label=VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=midankalahon786&style=flat-square&color=FF2079&label=VISITORS" />
 </div>
