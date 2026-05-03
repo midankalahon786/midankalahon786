@@ -125,11 +125,14 @@ $ whoami
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <img width="100%" alt="Starred Topics" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_topics.svg" />
     </td>
-    <td width="50%">
+    <td width="33%">
       <img width="100%" alt="AniList" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_anilist.svg" />
+    </td>
+    <td width="33%">
+      <img width="100%" alt="Steam Activity" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_steam.svg" />
     </td>
   </tr>
 </table>
