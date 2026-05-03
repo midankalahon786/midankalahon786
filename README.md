@@ -129,11 +129,20 @@ $ whoami
 
 <br/>
 
-<img width="100%" alt="AniList" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_anilist.svg" />
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" alt="AniList" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_anilist.svg" />
+    </td>
+    <td width="50%">
+      <img width="100%" alt="Steam Activity" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_steam.svg" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img width="100%" alt="Steam Activity" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_steam.svg" />
+<img width="100%" alt="Spotify Recently Played" src="https://raw.githubusercontent.com/midankalahon786/midankalahon786/main/metrics_plugin_spotify.svg" />
 
 ---
 
