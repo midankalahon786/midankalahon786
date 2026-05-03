@@ -90,7 +90,7 @@ jobs:
           config_theme: dark
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_API_TOKEN }}
-          plugin_steam_user: 76561198831135017
+          plugin_steam_user: "76561198831135017" 
           plugin_steam_sections: player, most-played
           plugin_steam_games_limit: 5
           plugin_steam_recent_games_limit: 1
