@@ -12,6 +12,7 @@ permissions:
   contents: write
 
 jobs:
+
   github-metrics:
     runs-on: ubuntu-latest
     steps:
@@ -19,6 +20,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: midankalahon786
+          filename: github-metrics.svg
 
           template: classic
           base: header, activity, community, repositories
@@ -40,3 +42,34 @@ jobs:
 
           plugin_activity: yes
           plugin_activity_limit: 5
+
+  metrics-topics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: midankalahon786
+          filename: metrics_plugin_topics.svg
+
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 20
+          plugin_topics_mode: icons
+
+  metrics-anilist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: midankalahon786
+          filename: metrics_plugin_anilist.svg
+
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_user: YOUR_ANILIST_USERNAME
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 22
